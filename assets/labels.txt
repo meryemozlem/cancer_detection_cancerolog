@@ -1,0 +1,7 @@
+0 Pneumonia ' lı Akciğer
+1 Sağlıklı Akciğer
+2 Kanserli Cilt
+3 Sağlıklı Cilt
+4 İyi Huylu Tümör Meme Kanseri
+5 Kötü Huylu Meme Kanseri
+6 Sağlıklı Meme
