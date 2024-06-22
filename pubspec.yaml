@@ -36,8 +36,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
   tensorflow_lite_flutter: ^2.0.1
+  #flutter_tflite: ^1.0.1
   image: ^4.2.0
   image_picker: ^1.1.2
+  #image_picker: ^0.8.9
   path_provider: ^2.1.3
   circular_bottom_navigation: ^2.4.0
   flutter_launcher_icons: ^0.13.1
@@ -45,10 +47,9 @@ dependencies:
   font_awesome_flutter: ^10.7.0
   custom_clippers: ^2.0.0
   line_awesome_flutter: ^3.0.1
-  #flutter_tflite: ^1.0.1
   flutter_svg: ^2.0.7
   fluttertoast: ^8.2.2
-  
+
 
 dev_dependencies:
   flutter_test:
