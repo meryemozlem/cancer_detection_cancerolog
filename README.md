@@ -45,6 +45,7 @@ Data Collection for Research and Development: Research and development studies c
 
 ## Ekran Görüntüleri
 
-![Screenshot_20240620_172510_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/c49f8fd2-8817-4c33-855b-c29c45e2906dwidth=50% height=50%)
+![Screenshot_20240620_172510_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/c04f45d0-3315-4fdd-97e7-e70d39ebea13)
+![Screenshot_20240620_172514_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/a0e52efc-2561-460a-9a01-aee3c7b842a7)
 
 
