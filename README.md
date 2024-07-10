@@ -43,4 +43,9 @@ Data Sharing and Personalized Recommendations: Artificial intelligence systems c
 Data Collection for Research and Development: Research and development studies can be supported with anonymized data.
 
 
-![Uploading Screenshot_20240620_172510_com.example.medical_app.jpg…]()
+## Ekran Görüntüleri
+
+![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot_20240620_172510_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/c49f8fd2-8817-4c33-855b-c29c45e2906d)
+
+
