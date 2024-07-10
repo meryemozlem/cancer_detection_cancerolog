@@ -43,12 +43,4 @@ Data Sharing and Personalized Recommendations: Artificial intelligence systems c
 Data Collection for Research and Development: Research and development studies can be supported with anonymized data.
 
 
-![Screenshot_20240620_172528_com example m![Screenshot_20240620_172646_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/8084fb8c-a8fb-49fc-850c-a2e1a0ca3c7b)
-![Screenshot_20240620_172602_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/e887367c-d458-4a67-bce0-a8c2f1030277)
-![Screenshot_20240620_172557_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/3828897d-2129-4eaa-8777-5087c31e0c63)
-![Screenshot_20240620_172551_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/f7b62b53-3844-4a39-9984-2eb7f821f072)
-![Screenshot_20240620_172537_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/e0a91ffb-9596-4a3f-89e2-36303acde7ba)
-edical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/2defcbcf-96b8-4160-b8c7-1ad5dbd706dc)
-![Screenshot_20240620_172514_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/57d7fc7f-b823-4460-a970-33e2eed1b8a3)
-![Screenshot_20240620_172510_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/5137d426-51ac-487d-9629-b44e3694767d)
-
+![Uploading Screenshot_20240620_172510_com.example.medical_app.jpg…]()
