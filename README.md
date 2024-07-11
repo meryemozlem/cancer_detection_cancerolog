@@ -49,7 +49,7 @@ Data Collection for Research and Development: Research and development studies c
 ![Screenshot_20240620_172510_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/c04f45d0-3315-4fdd-97e7-e70d39ebea13)
 ![Screenshot_20240620_172514_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/a0e52efc-2561-460a-9a01-aee3c7b842a7)
 
-![Screenshot_20240620_172537_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/276c63c7-2967-4215-b506-fa2169fdd882)
+![Screenshot_20240620_172537_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/468x300/assets/82104183/276c63c7-2967-4215-b506-fa2169fdd882)
 ![Screenshot_20240620_172646_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/8e5c8ef3-dbd9-4143-bd17-2e437769fd4f)
 ![Screenshot_20240620_172528_com example medical_app](https://github.com/meryemozlem/cancer_detection_cancerolog/assets/82104183/37d5c65c-df39-43df-b05c-3235bb99a4e8)
 
