@@ -43,6 +43,7 @@ Advanced Image Analysis: Advanced modules can be added for object detection and 
 Data Sharing and Personalized Recommendations: Artificial intelligence systems can be developed to share health data with doctors and provide personalized recommendations.
 Data Collection for Research and Development: Research and development studies can be supported with anonymized data.
 
+https://teachablemachine.withgoogle.com/
 
 ## Ekran Görüntüleri
 
